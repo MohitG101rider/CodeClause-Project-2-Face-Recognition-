@@ -4,12 +4,13 @@ CodeClause Internship
 #Face Recognition Project using Opencv LBPH (new try because i am unable to use face recognition in my laptop due to error in .whl building)
 
 (A) If you want to test my model -
-    1. Open all files in your system via VS code ,idle or any other compiler.
-    2. Keep all the files in one folder.
-    3. I have trained my model on "Narendra Modi".
-    4. Run *recognize.py* to open webcam and show any picture of "Narendra Modi" to the camera , it will recognize it with confidence meter.
-    5. Run *imange_recognize.py* , it ask for image name - you can use my uploaded image (test9.jpg, test10.jpg) or you can also use any other image [.jpg,.png,.jpeg only] but don't              forget to put it in folder where all files are.
-    6. Note - LBPH is not as accurate as face-recognition library , but i have tried my best to make it as much accurate as face-recognition.
+    
+ 1. Open all files in your system via VS code ,idle or any other compiler.
+ 2. Keep all the files in one folder.
+ 3. I have trained my model on "Narendra Modi".
+ 4. Run *recognize.py* to open webcam and show any picture of "Narendra Modi" to the camera , it will recognize it with confidence meter.
+ 5. Run *imange_recognize.py* , it ask for image name - you can use my uploaded image (test9.jpg, test10.jpg) or you can also use any other image [.jpg,.png,.jpeg only] but don't            forget to put it in folder where all files are.
+ 6. Note - LBPH is not as accurate as face-recognition library , but i have tried my best to make it as much accurate as face-recognition.
 
 (B) If you want to train data with your own faces -
     1. Firstly,make a folder named "data" and run *data.py* .
